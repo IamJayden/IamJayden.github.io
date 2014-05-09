@@ -1,15 +1,20 @@
 # About Me
 
-## Fritz Lin
+## Jayden
 
-<img alt="avatar" src="avatar.jpg" width="240">
+<img alt="avatar" src="img/20140509/jayden.jpg">
 
-> Life is short, I use JS.
+> Never forget to say "thanks" .
 
 ## Major
 
-- Node.js/JavaScript Programming
-- Website Design (CSS/HTML)
+- Java(JavaEE/SSH)
+- Web(CSS/HTML)
+
+## Hobbies
+- Run
+- Swimming
+- All the interesting things
 
 ## College Studying In
 
@@ -17,4 +22,4 @@ CS College in WYU, China
 
 ## On Github
 
-[@fritx](https://github.com/fritx)
+[@Jayden](https://github.com/IamJayden)

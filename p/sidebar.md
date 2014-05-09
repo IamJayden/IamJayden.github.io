@@ -1,6 +1,6 @@
-# [Fritx's Blog](.)
+# [Jaydne's Blog](.)
 
-> Life is short, I use JS.
+> Nothing is Impossible
 
-- [Projects](projects/index.md)
+- [Diary](Diary/index.md)
 - [About Me](aboutme.md)

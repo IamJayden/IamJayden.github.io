@@ -78,6 +78,9 @@ blockquote {
 .main-inner {
   padding: 2% 5% 10%;
 }
+.main-inner p {
+  text-indent: 2em;
+}
 
 @media (min-width: 640px) {
   img {

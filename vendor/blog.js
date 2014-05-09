@@ -74,7 +74,7 @@
 
   function start() {
     load('#sidebar-inner', 'sidebar.md');
-    load('#main-inner', mainUrl || 'projects/index.md');
+    load('#main-inner', mainUrl || 'Diary/index.md');
   }
 
   function isAbsolute(url) {

@@ -2,7 +2,7 @@
 
 ## Jayden
 
-<img alt="avatar" src="img/20140509/jayden.jpg">
+<img alt="avatar" src="Diary/img/jayden.jpg">
 
 > Never forget to say "thanks" .
 

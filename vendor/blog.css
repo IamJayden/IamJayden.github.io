@@ -2,7 +2,8 @@ html, body {
   margin: 0;
   padding: 0;
   line-height: 1.5;
-  font-size: 18px;
+  font-size: 106%;
+  font-family: "Microsoft YaHei", sans-serif;
 }
 
 img {
@@ -12,7 +13,7 @@ img {
 
 /* learnt from github */
 pre, code {
-  font-family: Consolas, "Liberation Mono", Courier, monospace, serif;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
   background-color: #f8f8f8;
   border: 1px solid #ddd;
   border-radius: 3px;
@@ -74,18 +75,24 @@ blockquote {
 .sidebar h1 a {
   text-decoration: none;
 }
+.sidebar blockquote {
+  color: #999;
+}
 
 .main-inner {
-  padding: 2% 5% 10%;
+  padding: 2% 5% 6%;
 }
-.main-inner p {
-  text-indent: 2em;
+.main-page {
+  padding-bottom: 3%;
+}
+
+.img-holder {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
 }
 
 @media (min-width: 640px) {
-  img {
-    max-width: 60%;
-  }
   pre {
     font-size: 80%;
   }
@@ -98,7 +105,8 @@ blockquote {
   }
 
   .main-inner {
-    padding: 2% 10% 10%;
+    padding-left: 10%;
+    padding-right: 10%;
   }
 }
 

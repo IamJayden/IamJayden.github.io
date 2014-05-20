@@ -1,4 +1,4 @@
-# [Jaydne's Blog](.)
+# [Jayden's Blog](.)
 
 > Nothing is Impossible
 
